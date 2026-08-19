@@ -1,9 +1,9 @@
 ## Struktura bazy danych
 
 - Customers- klienci sklepu
-- Categories → Products — produkty pogrupowane w kategorie
-- Orders → OrderItems — zamówienia i ich pozycje
-- Payments — płatności powiązane z zamówieniami
+- Categories - Products - produkty pogrupowane w kategorie
+- Orders - OrderItems - zamówienia i ich pozycje
+- Payments - płatności powiązane z zamówieniami
 
 ## Struktura projektu
 01_create_tables.sql -- definicje tabel i relacji
